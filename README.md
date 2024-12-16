@@ -19,6 +19,8 @@ This undergraduate course will teach students how to use Python for data analyti
 | 23-Apr     | 14            | Capstone Assignment In Class Work                        |
 | 30-Apr     | NO CLASS      | Capstone Assignment Due                                  |
 | 7-May      | FINAL EXAM    | No Final                                                 |  
+
+
 Each class will be broken in three parts.  Conceptual lecture (the white board), Application lecture (the Code), Student led in class excericse (the grade).  There will also be homework each week to allow you to practice outside of class.
 
 
