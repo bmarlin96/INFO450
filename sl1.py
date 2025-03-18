@@ -1,4 +1,4 @@
-pip install streamlit seaborn
+
 
 # Import libraries
 import streamlit as st
